@@ -1,4 +1,4 @@
-module github.com/pinkmanyoung/web-service-gin
+module github.com/pinkmanyoung/gin
 
 go 1.17
 
